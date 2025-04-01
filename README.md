@@ -6,7 +6,7 @@ I'm **Ermias Tadesse**, a passionate **Fullstack Developer and Data Science Enth
 
 ## 🚀 About Me
 
-- 💻 **Experience**: 1+ years of experience in Laravel development and related technologies.
+- 💻 **Experience**: 4+ years of experience in Laravel development and related technologies.
 - 🌟 **Skills**: Laravel, PHP, Python, MySQL, PostgreSQL, RESTful APIs, JavaScript, Docker, and more.
 - 🌱 **Currently Learning**: Advanced system design, microservices, and serverless architectures.
 - 🤝 **Open to Collaboration**: I'm eager to collaborate on Laravel-based projects, open-source contributions, and innovative ideas.
@@ -36,16 +36,6 @@ Here are some of my notable projects:
 
 ### 📊 [Payroll Management System][https://github.com/username/payroll-system](https://github.com/Ermi23/Payroll-System.git)
 - A Laravel-based application for managing employee payroll and generating reports.
-
----
-
-## ✍️ Blog & Tutorials
-
-I enjoy sharing knowledge with the developer community. Check out my blog for Laravel tutorials, tips, and best practices:
-
-- [Introduction to Laravel Queues](https://medium.com/@yourusername/introduction-to-laravel-queues)
-- [Building RESTful APIs in Laravel](https://medium.com/@yourusername/building-restful-apis-in-laravel)
-- [Optimizing Database Queries in Laravel](https://medium.com/@yourusername/optimizing-database-queries-in-laravel)
 
 ---
 
