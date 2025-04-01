@@ -34,8 +34,8 @@ Here are some of my notable projects:
 ### 🛒 [E-commerce Platform]([https://github.com/Ermi23/Football-Fan-Page.git](https://github.com/Ermi23/Inventory-Management-System.git))
 - A full-stack student platform with product management, cart, and checkout functionality.
 
-### 📊 [Payroll Management System][https://github.com/username/payroll-system](https://github.com/Ermi23/Payroll-System.git)
-- A Laravel-based application for managing employee payroll and generating reports.
+### 📊 [Payroll Management System][https://hstpayroll.et/]
+- A comprehensive payroll management system with features like Landlord and Tenant management. Each company has its own database and credentials, with login via subdomain (e.g example.hstpayroll.et).
 
 ---
 
