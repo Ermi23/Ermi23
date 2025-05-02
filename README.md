@@ -51,7 +51,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
 ## 🌟 Fun Fact
 
-When I'm not coding, you'll find me playing chess, exploring nature, or experimenting with new recipes in the kitchen.
+When I'm not coding, you'll find me playing chess, exploring nature, watching or playing football game.
 
 ---
 
