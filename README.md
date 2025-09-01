@@ -6,7 +6,7 @@ I'm **Ermias Tadesse**, a passionate **Fullstack Developer and Data Science Enth
 
 ## 🚀 About Me
 
-- 💻 **Experience**: 2+ years of experience in Laravel development and related technologies.
+- 💻 **Experience**: 3+ years of experience in Laravel development and related technologies.
 - 🌟 **Skills**: Laravel, PHP, Python, MySQL, PostgreSQL, RESTful APIs, JavaScript, Docker, and more.
 - 🌱 **Currently Learning**: Advanced system design, microservices, and serverless architectures.
 - 🤝 **Open to Collaboration**: I'm eager to collaborate on Laravel-based projects, open-source contributions, and innovative ideas.
