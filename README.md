@@ -1,25 +1,25 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm **Ermias Tadesse**, a passionate **Fullstack Developer and Data Science Enthusiast** with a keen interest in building scalable, secure, and efficient web applications. I specialize in back-end development with Laravel and enjoy contributing to open-source projects, exploring new technologies, and solving complex problems with code.
+I'm **Ermias Tadesse**, a passionate **Full Stack Developer** with a keen interest in building scalable, secure, and efficient web applications. I specialize in back-end development with .NET and Laravel, and I enjoy contributing to open-source projects, exploring new technologies, and solving complex problems with code.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Experience**: 3+ years of experience in Laravel development and related technologies.
-- 🌟 **Skills**: Laravel, PHP, Python, MySQL, PostgreSQL, RESTful APIs, JavaScript, Docker, and more.
+- 💻 **Experience**: 4+ years of experience in Laravel and .NET development.
+- 🌟 **Skills**: .NET, Laravel, PHP, MySQL, PostgreSQL, RESTful APIs, JavaScript, Docker, and more.
 - 🌱 **Currently Learning**: Advanced system design, microservices, and serverless architectures.
-- 🤝 **Open to Collaboration**: I'm eager to collaborate on Laravel-based projects, open-source contributions, and innovative ideas.
+- 🤝 **Open to Collaboration**: I'm eager to collaborate on Laravel and .NET-based projects, open-source contributions, and innovative ideas.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: PHP, JavaScript, HTML, CSS, SQL
-- **Frameworks**: Laravel
+- **Languages**: PHP, C#, JavaScript, HTML, CSS, SQL
+- **Frameworks**: Laravel, .NET
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Composer, PHPUnit, Git, Docker, Postman, VS Code
-- **Other Skills**: API Development, Authentication (JWT/OAuth2), Eloquent ORM, Queues & Jobs, Blade Templates, CI/CD, DevOps basics
+- **Other Skills**: API Development, Authentication (JWT/OAuth2), Eloquent ORM, Entity Framework, Queues & Jobs, Blade Templates, CI/CD, DevOps basics
 
 ---
 
@@ -27,15 +27,15 @@ I'm **Ermias Tadesse**, a passionate **Fullstack Developer and Data Science Enth
 
 Here are some of my notable projects:
 
-### 🔑 [Student Management System]([https://github.com/username/auth-system](https://github.com/Ermi23/Student-Managment-System.git))
-- A robust authentication system with role-based access control (RBAC).
-- Features email verification, password resets, and social login.
+### 🔑 [HST Sira - Recruitment Management System](https://staging.sira.hst-et.com/en/job-seeker)
+- A comprehensive recruitment system designed to streamline the recruitment process, including applicant tracking and candidate management.
+- Built using clean architecture principles and microservices with RabbitMQ.
 
-### 🛒 [E-commerce Platform]([https://github.com/Ermi23/Football-Fan-Page.git](https://github.com/Ermi23/Inventory-Management-System.git))
-- A full-stack student platform with product management, cart, and checkout functionality.
+### 🛒 [Inventory Management System](https://github.com/Ermi23/Inventory-Management-System.git)
+- A full-fledged management platform with product management features and reporting capabilities.
 
-### 📊 [Payroll Management System][https://hstpayroll.et/]
-- A comprehensive payroll management system with features like Landlord and Tenant management. Each company has its own database and credentials, with login via subdomain (e.g example.hstpayroll.et).
+### 📊 [Payroll Management System](https://hstpayroll.et/)
+- A comprehensive payroll management system with features like landlord and tenant management, employing a multi-tenant architecture with secure login via subdomains.
 
 ---
 
@@ -51,7 +51,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
 ## 🌟 Fun Fact
 
-When I'm not coding, you'll find me playing chess, exploring nature, watching or playing football game.
+When I'm not coding, you'll find me playing chess, exploring nature, or watching and playing football!
 
 ---
 
