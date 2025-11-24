@@ -27,16 +27,18 @@ I'm **Ermias Tadesse**, a passionate **Full Stack Developer** with a keen intere
 
 Here are some of my notable projects:
 
+### 📊 [Payroll Management System](https://hstpayroll.et/)
+- A comprehensive payroll management system with features like landlord and tenant management, employing a multi-tenant architecture with secure login via subdomains.
+
 ### 🔑 [HST Sira - Recruitment Management System](https://staging.sira.hst-et.com/en/job-seeker)
 - A comprehensive recruitment system designed to streamline the recruitment process, including applicant tracking and candidate management.
 - Built using clean architecture principles and microservices with RabbitMQ.
 
+### 🛒 [Student Management System](https://github.com/Ermi23/Student-Managment-System)
+- Developed a comprehensive Student Management System, streamlining student enrollment, attendance tracking, grade management, and reporting using Laravel blade.
+
 ### 🛒 [Inventory Management System](https://github.com/Ermi23/Inventory-Management-System.git)
 - A full-fledged management platform with product management features and reporting capabilities.
-
-### 📊 [Payroll Management System](https://hstpayroll.et/)
-- A comprehensive payroll management system with features like landlord and tenant management, employing a multi-tenant architecture with secure login via subdomains.
-
 ---
 
 ## 📬 Get in Touch
